@@ -14,5 +14,5 @@
 •🐧 Linux enthusiast.</br>
 •⚙️ Interested in low-level programming & systems.</br>
 •🛠️ Building projects to turn theory into practical skills.</br>
-•🌱 Currently learning and improving my memory management skills.
-•📫 Contact: anasslk094@gmail.com.
+•🌱 Currently learning and improving my memory management skills.</br>
+•📫 Contact: anasslk094@gmail.com.</br>
