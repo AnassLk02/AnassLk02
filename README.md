@@ -16,3 +16,7 @@
 •🛠️ Building projects to turn theory into practical skills.</br>
 •🌱 Currently learning and improving my memory management skills.</br>
 •📫 Contact: anasslk094@gmail.com.</br>
+<h2>
+  <img src="https://cdn-icons-png.flaticon.com/512/1006/1006771.png" width="28">
+  Connect With Me
+</h2>
