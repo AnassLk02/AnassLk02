@@ -71,7 +71,7 @@
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats-nu-rosy-58.vercel.app/api?username=AnassLk02&show_icons=true&theme=dracula" />
-  <img height="175em" src="https://github-readme-stats-nu-rosy-58.vercel.app/api/top-langs/?username=AnassLk02&layout=compact&theme=dracula" /></p>
+  <img height="175em" width="400" src="https://github-readme-stats-nu-rosy-58.vercel.app/api/top-langs/?username=AnassLk02&layout=compact&theme=dracula" /></p>
 <p align="center">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=AnassLk02&theme=dracula" />
 </p>
