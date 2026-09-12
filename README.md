@@ -67,7 +67,7 @@
   />
 </a>
 <hr>
-## 📊 GitHub Stats
+<h2>📊 GitHub Stats<h2>
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats-nu-rosy-58.vercel.app/api?username=AnassLk02&show_icons=true&theme=dracula" />
