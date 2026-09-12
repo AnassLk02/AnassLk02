@@ -102,3 +102,12 @@ Some of the areas I'm working on:
 •⚙️ System-level concepts.
 
 •🐚 Shell programming.
+
+<h2>🎯 My Goals</h2>
+•🖥️ Understand computers deeply, not just learn how to use them.
+
+•👨‍💻 I'm working toward becoming a software engineer capable of understanding a problem from the highest level down to the machine level.
+<hr>
+<p align="center">
+<img src="https://github-readme-quotes-bay.vercel.app/quote?quoteCategory=motivational&theme=dracula" />
+</p>
