@@ -37,4 +37,33 @@
     height="40"
     alt="Reddit"
   />
+  <hr>
 </a>
+<h2>🛠️ Tech Stack</h2>
+<h3>Languages</h3>
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)">
+  <img
+    src="https://cdn.simpleicons.org/c/A8B9CC"
+    width="40"
+    height="40"
+    alt="C"
+  />
+</a>
+<h3>System & Tools</h3>
+<a href="https://www.linux.org/">
+  <img
+    src="https://cdn.simpleicons.org/linux/FCC624"
+    width="40"
+    height="40"
+    alt="Linux"
+  />
+</a>
+<a href="https://www.gnu.org/software/bash/">
+  <img
+    src="https://cdn.simpleicons.org/gnubash/4EAA25"
+    width="40"
+    height="40"
+    alt="Bash"
+  />
+</a>
+<hr>
