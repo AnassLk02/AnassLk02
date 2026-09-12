@@ -16,4 +16,25 @@
 •🛠️ Building projects to turn theory into practical skills.</br>
 •🌱 Currently learning and improving my memory management skills.</br>
 •📫 Contact: anasslk094@gmail.com.</br>
-🌐
+<hr>
+<h2>🔗Connect & Collaborate</h2>
+<a href="https://www.instagram.com/anass_lk02/">
+  <img
+    src="https://cdn.jsdelivr.net/gh/glincker/thesvg@main/public/icons/instagram/default.svg"
+    width="40"
+    height="40"
+    alt="Instagram"
+  />
+</a>
+  <a href="https://x.com/AnassTd4854">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v13/icons/x.svg"
+         width="40" height="40" alt="X">
+  </a>
+<a href="https://www.reddit.com/user/anass_lk/">
+  <img
+    src="https://cdn.simpleicons.org/reddit/FF4500"
+    width="40"
+    height="40"
+    alt="Reddit"
+  />
+</a>
