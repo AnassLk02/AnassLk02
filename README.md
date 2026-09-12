@@ -8,14 +8,20 @@
 </p>
   <hr>
 <h2>🧠 About Me</h2>
-<p>
-•🎓 Software Engineering Student at 1337.</br>
-•💻 Currently mastering C.</br>
-•🐧 Linux enthusiast.</br>
-•⚙️ Interested in low-level programming & systems.</br>
-•🛠️ Building projects to turn theory into practical skills.</br>
-•🌱 Currently learning and improving my memory management skills.</br>
-•📫 Contact: anasslk094@gmail.com.</br>
+
+•🎓 Software Engineering Student at 1337.
+
+•💻 Currently mastering C.
+
+•🐧 Linux enthusiast.
+
+•⚙️ Interested in low-level programming & systems.
+
+•🛠️ Building projects to turn theory into practical skills.
+
+•🌱 Currently learning and improving my memory management skills.
+
+•📫 Contact: anasslk094@gmail.com.
 <hr>
 <h2>🔗Connect & Collaborate</h2>
 <a href="https://www.instagram.com/anass_lk02/">
@@ -67,7 +73,7 @@
   />
 </a>
 <hr>
-<h2>📊 GitHub Stats<h2>
+<h2>📊 GitHub Stats</h2>
 
 <p align="left">
   <img height="180em" src="https://github-readme-stats-nu-rosy-58.vercel.app/api?username=AnassLk02&show_icons=true&theme=dracula" />
@@ -75,3 +81,24 @@
 <p align="center">
   <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=AnassLk02&theme=dracula" />
 </p>
+<hr>
+<h2>🚀 Projects</h2>
+<h3>🧩 42 / 1337 Projects</h3>
+
+A collection of my work throughout my journey at 1337.
+
+Learning by building, breaking, debugging, and rebuilding.
+
+Some of the areas I'm working on:
+
+•🔧 C libraries & utilities.
+
+•🧠 Algorithms & data structures.
+
+•💾 Memory management.
+
+•🖥️ Unix / Linux programming.
+
+•⚙️ System-level concepts.
+
+•🐚 Shell programming.
